@@ -35,7 +35,7 @@ I am currently diving deeper into:
 
 ## 📬 Contact Me
 
-- USI Email: [Giulia.guglielmi@usi.ch](mailto:Giulia.guglielmi@usi.ch)
+- USI Email: [giulia.guglielmi@usi.ch](mailto:giulia.guglielmi@usi.ch)
 - Bicocca Email: [g.guglielmi12@campus.unimib.it](mailto:g.guglielmi12@campus.unimib.it)
 
 <!--

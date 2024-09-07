@@ -1,4 +1,4 @@
-## Hi there, I'm Giulia Guglielmi👋 Welcome to my GitHub profile
+## Hi there, I'm Giulia Guglielmi👋
 
 I'm currently pursuing a Master's degree and working on my thesis at Università della Svizzera Italiana. My research focuses on **Using Causal Inference for Financial Predictions**, which allows me to blend my interests in both **data science** and **finance**.
 

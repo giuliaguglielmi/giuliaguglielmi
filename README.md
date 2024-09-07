@@ -17,6 +17,7 @@ Here are some of the technologies and languages I work with:
 - **Data Science & Machine Learning:** Pandas, Scikit-learn, TensorFlow, Numpy
 - **Databases:** PostgreSQL, Firebase
 - **Tools & Platforms:** Microsoft Office, Figma, Gephi, LaTeX, Anaconda, Visual Studio, Android Studio, IntelliJ, Git, GitHub, GitLab
+
 and so on...
 
 ## 🌱 Currently Learning

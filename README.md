@@ -12,10 +12,11 @@ I'm currently pursuing a Master's degree and working on my thesis at Università
 
 Here are some of the technologies and languages I work with:
 
-- **Programming Languages:** Python, R, JavaScript, Java, PHP, MATLAB
+- **Programming Languages:** Python, R, JavaScript, Java, PHP, Go, SQL, HTML, CSS, MATLAB, Visual Basic
 - **Frameworks/Libraries:** React Native
-- **Data Science & Machine Learning:** Pandas, Scikit-learn, TensorFlow, R (tidyverse, caret)
-- **Tools:** Git, Jupyter, RStudio
+- **Data Science & Machine Learning:** Pandas, Scikit-learn, TensorFlow, Numpy
+- **Databases:** PostgreSQL, Firebase
+- **Tools & Platforms:** Microsoft Office, Figma, Gephi, LaTeX, Anaconda, Visual Studio, Android Studio, IntelliJ, Git, GitHub, GitLab
 and so on...
 
 ## 🌱 Currently Learning
@@ -30,6 +31,11 @@ I am currently diving deeper into:
 [![Giulia’s github stats](https://github-readme-stats.vercel.app/api?username=deepajarout)](https://github.com/giuliaguglielmi)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepajarout&layout=compact)](https://github.com/giuliaguglielmi)
+
+## 📬 Contact Me
+
+- USI Email: [Giulia.guglielmi@usi.ch](mailto:Giulia.guglielmi@usi.ch)
+- Bicocca Email: [g.guglielmi12@campus.unimib.it](mailto:g.guglielmi12@campus.unimib.it)
 
 <!--
 **giuliaguglielmi/giuliaguglielmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
